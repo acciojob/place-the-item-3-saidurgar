@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+div{
+	
+	display:flex;
+	width:500px;
+	flex-wrap:wrap;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+}
